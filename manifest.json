@@ -1,0 +1,33 @@
+{
+  "name": "Nour — Cours Islamiques Quotidiens",
+  "short_name": "Nour نور",
+  "description": "Application complète d'apprentissage islamique : Coran, Hadiths, Sciences religieuses, Prophètes, Seerah, Spiritualité, Akhlaq, Tajwid, Sheikh Ahmad Al-Nufais",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#006D77",
+  "theme_color": "#006D77",
+  "orientation": "portrait-primary",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "lifestyle"],
+  "shortcuts": [
+    {
+      "name": "Accueil Nour",
+      "url": "./index.html",
+      "description": "Ouvrir Nour"
+    }
+  ]
+}
